@@ -17,6 +17,10 @@ Pixel Classification and Averaging:
 G_Vu_Vm.csv - Vaccinium myrtillus and Vaccinium uliginosum from Gridzor
 
 N-G-T-L_Sites_combined_zscore_data.csv - Vaccinium myrtillus only, from 4 different sites,  Norway (N), Gridzor (G), Tavush (T) and Lusagyugh (L)
+L    92
+T    88
+N    52
+G    35
 
 
 
