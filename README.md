@@ -23,5 +23,7 @@ T    88
 N    52
 G    35
 
-
+# Machine Learning folder description
+All experiment codes described in the article are present in 2 separate files for Vu/Vm predictions and for Vm site predictions. 
+Files include dimensionality reductions, models training and selection, as well as feature importance calculations.
 
